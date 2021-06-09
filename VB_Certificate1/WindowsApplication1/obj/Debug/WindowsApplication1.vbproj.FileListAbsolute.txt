@@ -1,0 +1,47 @@
+D:\c sharp\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\c sharp\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\c sharp\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\c sharp\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\c sharp\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojResolveAssemblyReference.cache
+D:\c sharp\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\c sharp\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\c sharp\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\c sharp\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\c sharp\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\c sharp\WindowsApplication1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+E:\c sharp\vb 1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\c sharp\vb 1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\c sharp\vb 1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\c sharp\vb 1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+E:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+E:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\c sharp\vb 1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+D:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+D:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+D:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
+D:\c sharp\vb 1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+D:\c sharp\vb 1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+D:\c sharp\vb 1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+D:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+D:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+D:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
+D:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+D:\c sharp\vb 1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\高一\c sharp\vb1\WindowsApplication1\bin\Debug\WindowsApplication1.exe.config
+E:\高一\c sharp\vb1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+E:\高一\c sharp\vb1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+E:\高一\c sharp\vb1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+E:\高一\c sharp\vb1\WindowsApplication1\obj\Debug\WindowsApplication1.vbprojAssemblyReference.cache
+E:\高一\c sharp\vb1\WindowsApplication1\obj\Debug\WindowsApplication1.Form1.resources
+E:\高一\c sharp\vb1\WindowsApplication1\obj\Debug\WindowsApplication1.Resources.resources
+E:\高一\c sharp\vb1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.GenerateResource.cache
+E:\高一\c sharp\vb1\WindowsApplication1\obj\Debug\WindowsApplication1.vbproj.CoreCompileInputs.cache
+E:\高一\c sharp\vb1\WindowsApplication1\obj\Debug\WindowsApplication1.exe
+E:\高一\c sharp\vb1\WindowsApplication1\obj\Debug\WindowsApplication1.xml
+E:\高一\c sharp\vb1\WindowsApplication1\obj\Debug\WindowsApplication1.pdb
