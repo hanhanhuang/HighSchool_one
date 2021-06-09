@@ -1,0 +1,11 @@
+D:\c sharp\vb3\bin\Debug\vb3.exe.config
+D:\c sharp\vb3\bin\Debug\vb3.exe
+D:\c sharp\vb3\bin\Debug\vb3.pdb
+D:\c sharp\vb3\bin\Debug\vb3.xml
+D:\c sharp\vb3\obj\Debug\vb3.vbprojResolveAssemblyReference.cache
+D:\c sharp\vb3\obj\Debug\vb3.Form1.resources
+D:\c sharp\vb3\obj\Debug\vb3.Resources.resources
+D:\c sharp\vb3\obj\Debug\vb3.vbproj.GenerateResource.Cache
+D:\c sharp\vb3\obj\Debug\vb3.exe
+D:\c sharp\vb3\obj\Debug\vb3.xml
+D:\c sharp\vb3\obj\Debug\vb3.pdb
